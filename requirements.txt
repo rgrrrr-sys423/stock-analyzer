@@ -1,0 +1,6 @@
+yfinance
+pandas-ta
+matplotlib
+numpy
+pandas
+pyinstaller
